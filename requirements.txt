@@ -6,7 +6,6 @@ click==7.1.1
 colour==0.1.5
 dnspython==2.0.0
 dtreeviz==1.1.4
-explainerdashboard==0.3.3
 Flask==1.1.1
 Flask-Cors==3.0.8
 flask-simplelogin==0.0.7
